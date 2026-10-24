@@ -1,0 +1,12 @@
+{
+  "id": "com.phoenixfox.stereosbs",
+  "name": "StereoSBS",
+  "author": "Phoenixfox",
+  "modVer": "0.1",
+  "supportedGameVer": [
+    "*"
+  ],
+  "assemblies": [
+    "bin/Debug/netstandard2.1/StereoSBS.dll"
+  ]
+}

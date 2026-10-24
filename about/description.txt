@@ -1,0 +1,6 @@
+[h1]Stereo SBS[/h1]
+Renders the game in side-by-side stereoscopic 3D for 3D TVs, monitors, projectors and VR headsets that play SBS video.
+
+Open the mod's settings to choose Half SBS (squeezed, what most 3D TVs expect) or Full SBS, and to tune depth strength and convergence.
+Experimental. Mouse aiming is not adapted yet, so a controller works best.
+Client-side only. It does not change gameplay.
