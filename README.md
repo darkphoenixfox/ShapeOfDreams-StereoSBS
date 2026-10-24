@@ -39,6 +39,12 @@ Console command `sbs_dump` logs every camera and root canvas to `Player.log`, fo
 - The developer FPS counter only appears once, across the whole screen.
 - Every frame is rendered twice, so expect roughly double the GPU cost.
 
+## Installing
+
+1. Download `StereoSBS-vX.Y.Z.zip` from the [latest release](https://github.com/darkphoenixfox/ShapeOfDreams-StereoSBS/releases/latest).
+2. Unzip it into the game's `Mods` folder, for example `C:\Program Files (x86)\Steam\steamapps\common\Shape of Dreams\Mods\`. You should end up with `Mods\StereoSBS\about\metadata.json`.
+3. Start the game and enable **StereoSBS** in the mod list. The settings are in the mod's options.
+
 ## Building
 
 1. Clone this repository into the game's `Mods` folder, so that the path is `Shape of Dreams/Mods/ShapeOfDreams-StereoSBS/`. The project references the game's DLLs at `..\..\Shape of Dreams_Data\Managed`.
